@@ -3,11 +3,7 @@
 **Usage**
 
 ```
--obfuscationdictionary dictionary-drakeet.txt
--classobfuscationdictionary dictionary-drakeet.txt
--packageobfuscationdictionary dictionary-drakeet.txt
+-obfuscationdictionary proguard-dict2.txt
+-classobfuscationdictionary proguard-dict.txt
+-packageobfuscationdictionary proguard-dict.txt
 ```
-
-Decompiled by Jadx
-
-![Snip20170928_19.png](https://i.loli.net/2017/09/28/59cc8a7388601.png)
